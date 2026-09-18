@@ -6,7 +6,8 @@
 
 **Junior DevOps Engineer** · Building Projects
   
-I'm passionate about automation, cloud-native technologies, and making DevOps accessible. I love building and sharing knowledge with the community. 💻
+I'm passionate about automation, cloud-native technologies, and making DevOps accessible. 
+I love building and sharing knowledge with the community. 💻
 
 <br>
 

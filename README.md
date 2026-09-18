@@ -4,9 +4,9 @@
 
 <br>
 
-**DevOps Engineer** · Building scalable infrastructure and AI-powered platforms
+**Junior DevOps Engineer** · Building Projects
   
-I'm passionate about automation, cloud-native technologies, and making DevOps accessible. I love building tools, contributing to open-source, and sharing knowledge with the community. 💻
+I'm passionate about automation, cloud-native technologies, and making DevOps accessible. I love building and sharing knowledge with the community. 💻
 
 <br>
 
@@ -65,7 +65,7 @@ automation, monitoring, security scanning and Infrastructure as Code.
 
 | Project | Description & Impact | Tech & Links |
 | :--- | :--- | :--- |
-| 🐍 **myapp** | Production CI/CD pipeline for a Flask app. Auto-deploys to AWS EKS with self-monitoring and security.  | `Docker` `AWS EKS` `Terraform` `GitHub Actions` `Prometheus` `Grafana` `ArgoCD` `Helm` `Trivy`  <br> [📁 Repo↗](https://github.com/aishacurly/myapp) · [📖 Wiki↗](https://github.com/aishacurly/myapp/wiki) |
+| 🐍 **myapp** | Production CI/CD pipeline for a Flask app. Auto-deploys to AWS EKS with self-monitoring and security.  | `Docker` `AWS EKS` `Terraform` `GitHub Actions` `Prometheus` `Grafana` `ArgoCD` `Helm` `Trivy`  <br> [📁 Repo↗](https://github.com/aishacurly/myapp) |
 | 🏗️ **terraform-eks** | Complete AWS cloud infrastructure as code. Networking, cluster, and security provisioned with one command. | `Terraform` `AWS VPC` `EKS` `ECR` `IAM` `Security Groups` `NAT Gateway` <br>  [📁 Repo↗](https://github.com/aishacurly/terraform-eks) |
 
 
@@ -73,7 +73,7 @@ automation, monitoring, security scanning and Infrastructure as Code.
 
 <div align="center">
   
-▄▀▄▀▄▀   ▀▄▀▄▀▄
+▄▀▄▀▄▀ Thank You For Visiting My Github ▀▄▀▄▀▄
  
 
 <div align="left"> 

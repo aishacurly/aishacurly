@@ -65,8 +65,8 @@ automation, monitoring, security scanning and Infrastructure as Code.
 
 | Project | Description & Impact | Tech & Links |
 | :--- | :--- | :--- |
-| 🐍 **myapp** | Production CI/CD pipeline for a Flask app. Auto-deploys to AWS EKS with self-monitoring and security.  | `Docker` `AWS EKS` `Terraform` `GitHub Actions` `Prometheus` `Grafana` `ArgoCD` `Helm` `Trivy`  <br> [📁 Repo↗](https://github.com/asha-m1/myapp) · [📖 Wiki↗](https://github.com/aishacurly/myapp/wiki) |
-| 🏗️ **terraform-eks** | Complete AWS cloud infrastructure as code. Networking, cluster, and security provisioned with one command. | `Terraform` `AWS VPC` `EKS` `ECR` `IAM` `Security Groups` `NAT Gateway` <br>  [📁 Repo↗](https://github.com/asha-m1/terraform-eks) |
+| 🐍 **myapp** | Production CI/CD pipeline for a Flask app. Auto-deploys to AWS EKS with self-monitoring and security.  | `Docker` `AWS EKS` `Terraform` `GitHub Actions` `Prometheus` `Grafana` `ArgoCD` `Helm` `Trivy`  <br> [📁 Repo↗](https://github.com/aishacurly/myapp) · [📖 Wiki↗](https://github.com/aishacurly/myapp/wiki) |
+| 🏗️ **terraform-eks** | Complete AWS cloud infrastructure as code. Networking, cluster, and security provisioned with one command. | `Terraform` `AWS VPC` `EKS` `ECR` `IAM` `Security Groups` `NAT Gateway` <br>  [📁 Repo↗](https://github.com/aishacurly/terraform-eks) |
 
 
 <br>
